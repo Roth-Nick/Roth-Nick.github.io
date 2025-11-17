@@ -1,0 +1,24 @@
+Quarterback,SABE
+Josh Allen,-18.9
+Jordan Love,-15.3
+Lamar Jackson,-15.1
+Bo Nix,-9.3
+Geno Smith,-6.8
+Brock Purdy,-6.2
+Sam Darnold,-5.8
+Jared Goff,-5.0
+Baker Mayfield,-4.5
+Derek Carr,-3.8
+Kirk Cousins,-2.5
+Patrick Mahomes,-1.8
+Mac Jones,-0.2
+Trevor Lawrence,1.2
+Matthew Stafford,2.8
+Joe Burrow,3.5
+Dak Prescott,4.2
+Jalen Hurts,4.9
+Bryce Young,5.2
+Jayden Daniels,7.4
+Deshaun Watson,10.9
+Will Levis,14.8
+Caleb Williams,23.0
